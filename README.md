@@ -1,4 +1,4 @@
-# Islandora XQuery Example
+# Islandora XQuery Examples
 
 ## Description
 
